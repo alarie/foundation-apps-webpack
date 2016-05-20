@@ -1,0 +1,30 @@
+{
+  "name": "foundation-apps-webpack",
+  "version": "0.0.1",
+  "description": "Pretty shameless copy of [gowravshekar/font-awesome-webpack](https://github.com/gowravshekar/font-awesome-webpack).",
+  "main": "index.js",
+  "loader": "index.loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "foundation",
+    "foundation-apps",
+    "webpack"
+  ],
+  "author": {
+    "name": "Simon Schmidt",
+    "url": "@alarie"
+  },
+  "dependencies": {
+    "css-loader": "~0.17.0",
+    "sass-loader": "~3.2.0",
+    "style-loader": "~0.12.3"
+  },
+  "license": "MIT",
+  "readme": "",
+  "readmeFile": "README.md",
+  "peerDependencies": {
+    "foundation-apps": "^1.2.0"
+  }
+}
